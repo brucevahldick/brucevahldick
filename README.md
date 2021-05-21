@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Bruce Vahldick
-- 👀 I’m interested in software development, especially web design
 - 🌱 I’m currently graduating in software engineering
 - 📫 You can reach throught my e-mail address: brucev.br@gmail.com
 
